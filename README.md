@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hey there! I'm Haider
 
 🎓 **Software Engineering Student** at University of Agriculture, Faisalabad  
