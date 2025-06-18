@@ -25,17 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anonymous456&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous456&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anonymous456&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/m_haoder_ijaz)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/HaiderIjaz)   
