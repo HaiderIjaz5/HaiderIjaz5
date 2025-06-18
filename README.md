@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hey there! I'm Anonymous456
+# 👋 Hey there! I'm Haider
 
 🎓 **Software Engineering Student** at University of Agriculture, Faisalabad  
 💡 Passionate about **AI**, **Mobile Development**, and building real-world solutions  
